@@ -3,5 +3,6 @@
     "version": "0.1",
     "title": "Better Placer",
     "author": "BlinkerBoy",
-    "factorio_version": "1.1"    
+    "factorio_version": "1.1",
+    "description": "This mod allows you to place any placeable items with a specified gap in between them." 
 }
